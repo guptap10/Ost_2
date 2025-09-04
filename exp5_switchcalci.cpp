@@ -2,7 +2,7 @@
 //PRN: 23070123101
 #include<iostream>
 using namespace std;
-int main()
+
 {
     float a,b,c ;
 
