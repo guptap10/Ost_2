@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
-    int a,b,c, choice ;
+    int  choice ;
     cout << "DAY"<<endl;
     cout << "1: Monday"<<endl;
     cout << "2: Tuesday"<<endl;
